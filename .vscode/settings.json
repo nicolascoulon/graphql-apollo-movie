@@ -1,0 +1,12 @@
+{
+  // Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
+  // Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut
+  "editor.tabCompletion": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "off",
+  "typescript.check.tscVersion": false,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "workbench.colorTheme": "Default Dark+"
+}
